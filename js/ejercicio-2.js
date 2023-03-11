@@ -39,6 +39,7 @@ switch(nota){
         break;
     default:
         alert("numero erroneo");
+        alert("ingresa un numero valido");
         break;                            
 
 }
